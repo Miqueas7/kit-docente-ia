@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+
+# marcas de instituciones que no deben subirse (lista local de revisar_publicacion.py)
+.marcas_bloqueadas.txt
